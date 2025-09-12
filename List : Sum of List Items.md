@@ -10,8 +10,15 @@ To write a Python program that calculates the **sum of all elements** in a list.
 
 ## 🧾 Program
 
-Add code here
+L=[1,2,-8]
+
+s=sum(L)
+
+print(s)
 
 ## Output
+<img width="454" height="215" alt="image" src="https://github.com/user-attachments/assets/299083d9-180c-41bf-bafb-e2360ed54f5e" />
+
 
 ## Result
+Thus, To write a Python program that calculates the sum of all elements in a list is verified.

@@ -29,4 +29,4 @@ print("The entered string is not palindrome")
 
 
 ## Result
-Thus, To write a Python program to check whether the string "google" is a palindrome or not, without using built-in palindrome checking functions is verified
+Thus, To write a Python program to check whether the string "malayalam" is a palindrome or not, without using built-in palindrome checking functions is verified
